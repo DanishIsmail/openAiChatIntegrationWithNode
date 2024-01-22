@@ -1,0 +1,25 @@
+{
+  "name": "openaichatintegrationwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanishIsmail/openAiChatIntegrationWithNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanishIsmail/openAiChatIntegrationWithNode/issues"
+  },
+  "homepage": "https://github.com/DanishIsmail/openAiChatIntegrationWithNode#readme",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "nodemon": "^3.0.3",
+    "openai": "^4.25.0"
+  }
+}
